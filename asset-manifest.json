@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mohammed-f-zain/watches_store.git/static/css/main.b42fda03.css",
-    "main.js": "/mohammed-f-zain/watches_store.git/static/js/main.d409a877.js",
-    "index.html": "/mohammed-f-zain/watches_store.git/index.html",
-    "main.b42fda03.css.map": "/mohammed-f-zain/watches_store.git/static/css/main.b42fda03.css.map",
-    "main.d409a877.js.map": "/mohammed-f-zain/watches_store.git/static/js/main.d409a877.js.map"
+    "main.css": "/watches_store/static/css/main.b42fda03.css",
+    "main.js": "/watches_store/static/js/main.084c59d6.js",
+    "index.html": "/watches_store/index.html",
+    "main.b42fda03.css.map": "/watches_store/static/css/main.b42fda03.css.map",
+    "main.084c59d6.js.map": "/watches_store/static/js/main.084c59d6.js.map"
   },
   "entrypoints": [
     "static/css/main.b42fda03.css",
-    "static/js/main.d409a877.js"
+    "static/js/main.084c59d6.js"
   ]
 }
