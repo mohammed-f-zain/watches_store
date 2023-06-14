@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/watches_store/static/css/main.b42fda03.css",
-    "main.js": "/watches_store/static/js/main.084c59d6.js",
+    "main.css": "/watches_store/static/css/main.5ebd9b8a.css",
+    "main.js": "/watches_store/static/js/main.6d21ff33.js",
+    "static/media/herooo.jpg": "/watches_store/static/media/herooo.9f687f2b4a74899617bb.jpg",
     "index.html": "/watches_store/index.html",
-    "main.b42fda03.css.map": "/watches_store/static/css/main.b42fda03.css.map",
-    "main.084c59d6.js.map": "/watches_store/static/js/main.084c59d6.js.map"
+    "main.5ebd9b8a.css.map": "/watches_store/static/css/main.5ebd9b8a.css.map",
+    "main.6d21ff33.js.map": "/watches_store/static/js/main.6d21ff33.js.map"
   },
   "entrypoints": [
-    "static/css/main.b42fda03.css",
-    "static/js/main.084c59d6.js"
+    "static/css/main.5ebd9b8a.css",
+    "static/js/main.6d21ff33.js"
   ]
 }
