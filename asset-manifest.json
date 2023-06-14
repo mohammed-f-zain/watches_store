@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/watches_store/static/css/main.5ebd9b8a.css",
-    "main.js": "/watches_store/static/js/main.8ab8fe61.js",
-    "static/media/hero.jpg": "/watches_store/static/media/hero.9f687f2b4a74899617bb.jpg",
+    "main.css": "/watches_store/static/css/main.3e45ea08.css",
+    "main.js": "/watches_store/static/js/main.9856ecf8.js",
+    "static/media/hero3.jpg": "/watches_store/static/media/hero3.42374ee81d6f04546480.jpg",
+    "static/media/logo1.jpg": "/watches_store/static/media/logo1.4d0a069e8393f8035206.jpg",
     "index.html": "/watches_store/index.html",
-    "main.5ebd9b8a.css.map": "/watches_store/static/css/main.5ebd9b8a.css.map",
-    "main.8ab8fe61.js.map": "/watches_store/static/js/main.8ab8fe61.js.map"
+    "main.3e45ea08.css.map": "/watches_store/static/css/main.3e45ea08.css.map",
+    "main.9856ecf8.js.map": "/watches_store/static/js/main.9856ecf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ebd9b8a.css",
-    "static/js/main.8ab8fe61.js"
+    "static/css/main.3e45ea08.css",
+    "static/js/main.9856ecf8.js"
   ]
 }
